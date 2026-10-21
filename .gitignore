@@ -1,0 +1,6 @@
+node_modules/
+uso.jsonl
+saude.json
+relatorios/
+historico/
+*.zip

@@ -1,0 +1,22 @@
+{
+  "rapido": [
+    "opencode/big-pickle",
+    "opencode/mimo-v2.6-flash-free",
+    "nvidia/z-ai/glm-5.3",
+    "opencode/cat-jam-free",
+    "opencode/ling-3.1-flash-free",
+    "nvidia/deepseek-ai/deepseek-v4.1-flash",
+    "opencode/longcat-2.5-preview-free",
+    "opencode/muse-spark-1.3-contributor-free"
+  ],
+  "codigo": [
+    "nvidia/moonshotai/kimi-k3",
+    "opencode/big-pickle",
+    "nvidia/z-ai/glm-5.3"
+  ],
+  "pesado": [
+    "nvidia/moonshotai/kimi-k3",
+    "nvidia/z-ai/glm-5.3",
+    "opencode/big-pickle"
+  ]
+}
